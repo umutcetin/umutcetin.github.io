@@ -2,6 +2,7 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
 
+
 /*
 	Identity by HTML5 UP
 	html5up.net | @n33co
@@ -132,7 +133,7 @@
 		font-weight: 300;
 		line-height: 2;
 		letter-spacing: 0.2em;
-		text-transform: uppercase;
+		
 	}
 
 		@media screen and (max-width: 1680px) {
