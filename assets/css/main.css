@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #348cb2 url("images/bg5.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -260,7 +260,7 @@
 	}
 
 	#bg {
-		background-size: 2250px auto;
+		background-size: auto auto;
 		width: 6750px;
 	}
 
@@ -312,7 +312,7 @@
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
+		/*background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");*/
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -766,7 +766,7 @@
 		}
 
 		#bg {
-			background-size: 1500px auto;
+			background-size: auto auto;
 			width: 4500px;
 		} }
 
@@ -848,7 +848,7 @@
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: auto auto;
 			width: 2250px;
 		} }
 
@@ -934,7 +934,7 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: auto auto;
 			width: 900px;
 		}
 
@@ -1032,7 +1032,7 @@
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: auto auto;
 			width: 1237.5px;
 		}
 
